@@ -1,0 +1,38 @@
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.pdb
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Form1.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Properties.Resources.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Form1.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Properties.Resources.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.csproj.GenerateResource.Cache
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.pdb
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.pdb
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Form1.resources
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Properties.Resources.resources
+G:\x\NCFKR\2 BİLGİNER\4 C#\KONU ANLATIMI\FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.csproj.GenerateResource.Cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\bin\Debug\FONT DİALOG.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\E-H\3 FONT DİALOG\FONT DİALOG\obj\x86\Debug\FONT DİALOG.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT DİALOG.exe
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT DİALOG.pdb
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\bin\Debug\FONT DİALOG.exe
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\bin\Debug\FONT DİALOG.pdb
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT DİALOG.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT_DİALOG.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\22 Font Dialog Kullanımı\FONT DİALOG\obj\x86\Debug\FONT DİALOG.csproj.GenerateResource.Cache
